@@ -21,3 +21,22 @@ Before you open source your project, consider the effort required to maintain it
 ## License
 
 This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc.
+
+
+What is the purpose of this repository?
+
+Understand how open source projects works 
+
+Who should someone contact if they have questions?
+
+the current administrator of the project
+How should someone make contact if they have questions?
+
+There's a github template for issues.
+
+What are the first steps to getting started open sourcing a project?
+
+
+Setting a work flow and Establish program goals
+
+
